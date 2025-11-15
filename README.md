@@ -1,7 +1,5 @@
 # 🚀 Learning Path: Diventare Sviluppatore Java da Zero
 
-> Un percorso completo per imparare a programmare partendo da Java, passo dopo passo.
-
 ---
 
 ## 🧭 Fase 0 – Setup e mentalità da sviluppatore
